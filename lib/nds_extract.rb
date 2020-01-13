@@ -48,6 +48,7 @@ def total_gross(source)
   key_name = []
   hash_totals = {}
   index = 0
+  total = 0
   key_name = list_of_directors(source)
   hash_totals = directors_totals(source)
   
